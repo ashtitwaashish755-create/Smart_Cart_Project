@@ -10,6 +10,7 @@ Cluster Evaluation (Elbow Method & Silhouette Score)
 Data Visualization
 
 Technical Implementation
+
 1️⃣ Data Preprocessing
 
 Handling missing values
